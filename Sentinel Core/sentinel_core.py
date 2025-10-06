@@ -1,4 +1,3 @@
-# sentinel_core.py (corrigido: bug ip_list + limite de consultas)
 import re
 import io
 import socket
